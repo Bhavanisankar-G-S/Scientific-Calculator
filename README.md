@@ -17,9 +17,9 @@ Along with advanced math, the calculator features a custom expression parser (fo
 Instead of using lookup tables or standard libraries, this calculator solves ODEs to find function values. 
 
 * **Trigonometry $(\sin(x), \cos(x))$:** Solved as a system of coupled ODEs.
-* **Logarithms $(\ln(x))$:** Computed by solving $frac{dy}{dx} = frac{1}{x}$.
-* **Exponentials $(e^x)$:** Computed by solving $frac{dy}{dx} = y$.
-* **Square Roots $(\sqrt{x})$:** Computed by solving $frac{dy}{dx} = frac{1}{2y}$.
+* **Logarithms $(\ln(x))$:** Computed by solving $\frac{dy}{dx} = \frac{1}{x}$.
+* **Exponentials $(e^x)$:** Computed by solving $\frac{dy}{dx} = y$.
+* **Square Roots $(\sqrt{x})$:** Computed by solving $\frac{dy}{dx} = \frac{1}{2y}$.
 * **Cube Roots $(\sqrt[3]{x})$:** Solved using Newton-Raphson iterations.
 
 ## Hardware Requirements
